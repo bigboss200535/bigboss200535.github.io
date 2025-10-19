@@ -1,7 +1,7 @@
 
-**Innovative Web Developer**
+**Empirical Software Engineering Researcher**
 
-📍 Kumasi, Ashanti Region, Ghana  
+📍 Kumasi, Ghana  
 📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)  
 🌐 [webedgetek.com](https://webedgetek.com)  
 🐙 [github.com/bigboss200535](https://github.com/bigboss200535)  
@@ -9,7 +9,8 @@
 ---
 
 ## 🧭 Summary
-Proficient in designing, developing, and maintaining high-performance, user-centric websites and web applications. Adept at translating client requirements into scalable and efficient solutions while ensuring adherence to industry best practices and standards.
+An IT graduate with a strong foundation in Softwware Development and growing interest in empirical software engineering research. My extensive hands-on experience building and maintaining large-scale Laravel applications has provided me with a practical understanding of software maintenance challenges, code quality, and system comprehension. I am eager to leverage this background to contribute to research in **Mining Software Repositories** and **Program Understanding**, with  
+
 
 ---
 
