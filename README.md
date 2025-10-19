@@ -1,4 +1,4 @@
-# Mohammed Alhassan 👨🏽‍💻
+
 **Innovative Web Developer**
 
 📍 Kumasi, Ashanti Region, Ghana  
