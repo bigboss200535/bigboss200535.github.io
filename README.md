@@ -9,7 +9,7 @@
 ---
 
 ## 🧭 Summary
-An IT graduate with a strong foundation in Softwware Development and growing interest in empirical software engineering research. My extensive hands-on experience building and maintaining large-scale Laravel applications has provided me with a practical understanding of software maintenance challenges, code quality, and system comprehension. I am eager to leverage this background to contribute to research in **Mining Software Repositories** and **Program Understanding**, with  a specific interest in analyzing modern web frameworks to derive insights for better software tooling and maintenance practices. 
+An IT graduate with a strong foundation in Software Development and growing interest in empirical software engineering research. My extensive hands-on experience building and maintaining large-scale Laravel applications has provided me with a practical understanding of software maintenance challenges, code quality, and system comprehension. I am eager to leverage this background to contribute to research in **Mining Software Repositories** and **Program Understanding**, with  a specific interest in analyzing modern web frameworks to derive insights for better software tooling and maintenance practices. 
 
 
 ---
@@ -48,13 +48,13 @@ University of Education, Winneba *(2016 – 2020)*
 
 ## 🧰 Skills
 
-**Software Engineering & Analysis Tools**
+**-Software Engineering & Analysis Tools**
  - **Version Control**: Git/GitHub
- - **Code Quality & Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer (These are **Static Analysis** tools, directly related to **Program Understanding** and **Reservce Engineering**)
-- **Debugging & Problem Determination:** Xdebug, Laravel Telescope, Log Analysis
-- **API Analysis**: Experience with RESTful APIs, Postman
+ - **Code Quality & Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
+ - **Debugging & Problem Determination:** Xdebug, Laravel Telescope, Log Analysis
+ - **API Analysis**: Experience with RESTful APIs, Postman
 
-**Programming & Web Technologies**
+**-Programming & Web Technologies**
 - PHP, Laravel, JavaScript, MySQL  
 
 
