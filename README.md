@@ -48,10 +48,15 @@ University of Education, Winneba *(2016 – 2020)*
 
 ## 🧰 Skills
 
-- **Languages & Frameworks:** PHP (Core), Laravel, JavaScript, Angular, HTML, CSS, Bootstrap  
-- **Databases:** MySQL, MSSQL  
-- **Design:** Figma  
-- **Version Control:** Git  
+**Software Engineering & Analysis Tools**
+ - **Version Control**: Git/GitHub
+ - **Code Quality & Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer (These are **Static Analysis** tools, directly related to **Program Understanding** and **Reservce Engineering**)
+- **Debugging & Problem Determination:** Xdebug, Laravel Telescope, Log Analysis
+- **API Analysis**: Experience with RESTful APIs, Postman
+
+**Programming & Web Technologies**
+- PHP, Laravel, JavaScript, MySQL  
+
 
 ---
 
