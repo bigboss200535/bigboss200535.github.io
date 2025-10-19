@@ -9,7 +9,7 @@
 ---
 
 ## 🧭 Summary
-An IT graduate with a strong foundation in Softwware Development and growing interest in empirical software engineering research. My extensive hands-on experience building and maintaining large-scale Laravel applications has provided me with a practical understanding of software maintenance challenges, code quality, and system comprehension. I am eager to leverage this background to contribute to research in **Mining Software Repositories** and **Program Understanding**, with  
+An IT graduate with a strong foundation in Softwware Development and growing interest in empirical software engineering research. My extensive hands-on experience building and maintaining large-scale Laravel applications has provided me with a practical understanding of software maintenance challenges, code quality, and system comprehension. I am eager to leverage this background to contribute to research in **Mining Software Repositories** and **Program Understanding**, with  a specific interest in analyzing modern web frameworks to derive insights for better software tooling and maintenance practices. 
 
 
 ---
