@@ -1,4 +1,5 @@
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
+
 📍 Kumasi, Ghana  |  
 📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)    |      📞 +233(0)245340461 |    🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
 
