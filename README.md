@@ -1,7 +1,7 @@
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
 
--📍 Kumasi, Ghana  
--[alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)    |      📞 +233(0)245340461 |    🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
+📍 Kumasi, Ghana  
+📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)    |      📞 +233(0)245340461 |    🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
 
 ---
 
@@ -80,7 +80,10 @@ University of Education, Winneba *(2016 – 2020)*
 
 ## 🚀 Projects & Achievements
 - **Laravel Tax Management System** | Freelance Project
-
+--*Software Visualization:* Designed the Database schema and used Laravel Eloquent ORM to visualize and understand the complex data relationships
+--*Problem Determination:* Implemented comprehensive logging and monitoring using **Laravel Debugbar** to diagnose performance bottlenecks in database queries, reducing page load times by 30%.
+--*Mining Software Respositories:* Utilized Git history analysis to identify bug-prone modules by tracking *git blame* and *commit* frequencies, leading to a targeted refactoring strategy for the checkout process.
+   
 
 
  
