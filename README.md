@@ -1,7 +1,9 @@
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
 
-📍 Kumasi, Ghana  |  
-📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)    |      📞 +233(0)245340461 |    🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
+📍 Kumasi, Ghana   
+📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)        
+📞 +233(0)245340461     
+🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
 
 ---
 
@@ -23,22 +25,22 @@ An IT graduate with a strong foundation in Software Development and growing inte
 
 ## 💼 Experience
 
-### Web Developer — Mater Dei Hospital *(2021 – Present, Kumasi, Ghana)*
+### *Web Developer:* Mater Dei Hospital *(2021 – Present, Kumasi, Ghana)*
 - Assisted in the development of the company’s internal website.  
 - Collaborated with a team of 5 to build an SMS system that increased patient engagement by **20%**.  
 - Developed and managed code with **Laravel (PHP)**, **MySQL**, **JavaScript**, and **GitHub** for all assigned projects.
 
-### Web Developer (Remote) — Metro Health Clinic *(2017 – Present, Kumasi, Ghana)*
+### *Web Developer (Remote):* Metro Health Clinic *(2017 – Present, Kumasi, Ghana)*
 - Responsible for developing and managing hospital web-related applications with **PHP** and **MySQL**.  
 - Updated hospital website with Laravel to follow modern web practices.  
 - Ensured the security and confidentiality of patient data.
 
-### Web Developer Intern — Kumasi Metropolitan Assembly *(2020 – 2021, Kumasi, Ghana)*
+### *Web Developer Intern*:  Kumasi Metropolitan Assembly *(2020 – 2021, Kumasi, Ghana)*
 - Gained practical experience in back-end development.  
 - Developed and maintained code for data collection using **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**.  
 - Worked with a team of 4 developers and integrated third-party APIs.
 
-### IT Support Officer — Mater Dei Hospital *(2013 – 2016, Kumasi, Ghana)*
+### *IT Support Officer*: Mater Dei Hospital *(2013 – 2016, Kumasi, Ghana)*
 - Managed user accounts and assisted with password resets.  
 - Provided technical support and troubleshooting (both in person and remotely).  
 - Resolved network-related issues.
