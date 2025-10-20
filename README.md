@@ -1,5 +1,4 @@
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
-
 📍 Kumasi, Ghana  
 📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)   
 📞 +233(0)245340461
@@ -87,3 +86,6 @@ University of Education, Winneba *(2016 – 2020)*
 - 🌐 [webedgetek.com](https://webedgetek.com)  
 - 🐙 [github.com/bigboss200535](https://github.com/bigboss200535)  
 - 📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)
+---
+
+---
