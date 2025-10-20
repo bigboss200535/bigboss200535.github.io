@@ -52,7 +52,7 @@ An IT graduate with a strong foundation in Software Development and growing inte
 **BSc Information Technology**  
 University of Education, Winneba *(2016 – 2020)*  
 📍 Winneba, Ghana
--**Final Year Project**: Smart Claims:  
+   
 ---
 
 ## 🧰 Skills
@@ -81,7 +81,7 @@ University of Education, Winneba *(2016 – 2020)*
 ---
 
 ## 🚀 Projects & Achievements
-- **Laravel Tax Management System** | Freelance Project
+- **Laravel Tax Management System**  *Freelance Project*
   
 - **Software Visualization:** Designed the Database schema and used Laravel Eloquent ORM to visualize and understand the complex data relationships
 - **Problem Determination:** Implemented comprehensive logging and monitoring using **Laravel Debugbar** to diagnose performance bottlenecks in database queries, reducing page load times by 30%.
