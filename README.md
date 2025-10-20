@@ -1,19 +1,19 @@
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
 
-📍 Kumasi, Ghana   
-📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)        
-📞 +233(0)245340461     
-🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
+Kumasi, Ghana   
+[alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)        
++233(0)245340461     
+[github.com/bigboss200535](https://github.com/bigboss200535)                             
 
 ---
 
-## 🧭 Profile Summary
+## Profile Summary
 An IT graduate with a strong foundation in Software Development and growing interest in empirical software engineering research. My extensive hands-on experience building and maintaining large-scale Laravel applications has provided me with a practical understanding of software maintenance challenges, code quality, and system comprehension. I am eager to leverage this background to contribute to research in **Mining Software Repositories** and **Program Understanding**, with  a specific interest in analyzing modern web frameworks to derive insights for better software tooling and maintenance practices. 
 
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 - Empirical Software Engineering
 - Mining Software Repositories
 - Program understanding and Software visualization for Web Applications
@@ -23,7 +23,7 @@ An IT graduate with a strong foundation in Software Development and growing inte
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### *Web Developer:* Mater Dei Hospital *(2021 – Present, Kumasi, Ghana)*
 - Assisted in the development of the company’s internal website.  
@@ -47,15 +47,15 @@ An IT graduate with a strong foundation in Software Development and growing inte
 
 ---
 
-## 🎓 Education
+## Education
 
 **BSc Information Technology**  
 University of Education, Winneba *(2016 – 2020)*  
-📍 Winneba, Ghana
+Winneba, Ghana
    
 ---
 
-## 🧰 Skills
+## Skills
 
 **-Software Engineering & Analysis Tools**
  - **Version Control**: Git/GitHub
@@ -69,7 +69,7 @@ University of Education, Winneba *(2016 – 2020)*
 
 ---
 
-## 🌟 Strengths
+## Strengths
 
 - Collaborative team member  
 - Quick learner  
@@ -80,7 +80,7 @@ University of Education, Winneba *(2016 – 2020)*
 
 ---
 
-## 🚀 Projects & Achievements
+## Projects & Achievements
 - **Laravel Tax Management System**  *Freelance Project*
   
 - **Software Visualization:** Designed the Database schema and used Laravel Eloquent ORM to visualize and understand the complex data relationships
@@ -97,13 +97,13 @@ University of Education, Winneba *(2016 – 2020)*
 - **Reverse Engineering & Program Understanding:** Analyzed and integrated multiple third-party API's by deciphering their SDK and API documentations to create a unified, abstracted payment and SMS service layer, improving system maintainability.
 
  
-- 💼 **Tax Management System** — Developed with Laravel in a team of 5 for Blita Municipal, Republic of Togo.  
-- 🏥 **Client Management System** — Built for Metro Health Services using PHP.  
-- 🏡 **Land Allocation System** — Developed with PHP and MySQL for land sales management.
+- **Tax Management System** — Developed with Laravel in a team of 5 for Blita Municipal, Republic of Togo.  
+- **Client Management System** — Built for Metro Health Services using PHP.  
+- **Land Allocation System** — Developed with PHP and MySQL for land sales management.
 
 ---
 
-## 🗣️ Languages
+## Languages
 - English
 
 
