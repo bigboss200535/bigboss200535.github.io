@@ -1,13 +1,22 @@
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
 📍 Kumasi, Ghana  
-📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)    |      📞 +233(0)245340461 |                  
-🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
+📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)    |      📞 +233(0)245340461 |    🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
 
 ---
 
 ## 🧭 Profile Summary
 An IT graduate with a strong foundation in Software Development and growing interest in empirical software engineering research. My extensive hands-on experience building and maintaining large-scale Laravel applications has provided me with a practical understanding of software maintenance challenges, code quality, and system comprehension. I am eager to leverage this background to contribute to research in **Mining Software Repositories** and **Program Understanding**, with  a specific interest in analyzing modern web frameworks to derive insights for better software tooling and maintenance practices. 
 
+
+---
+
+## 🧠 Research Interests
+- Empirical Software Engineering
+- Mining Software Repositories
+- Program understanding and Software visualization for Web Applications
+- Reverse Engineering of API integrations and Third-party Components
+- Artificial Intelligence
+- Problem Determination in Distributed Web Systems
 
 ---
 
@@ -79,12 +88,5 @@ University of Education, Winneba *(2016 – 2020)*
 ## 🗣️ Languages
 - English
 
----
-
-## 🧭 Connect With Me
-- 🌐 [webedgetek.com](https://webedgetek.com)  
-- 🐙 [github.com/bigboss200535](https://github.com/bigboss200535)  
-- 📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)
----
 
 ---
