@@ -7,7 +7,7 @@
 
 ---
 
-## 🧭 Summary
+## 🧭 Profile Summary
 An IT graduate with a strong foundation in Software Development and growing interest in empirical software engineering research. My extensive hands-on experience building and maintaining large-scale Laravel applications has provided me with a practical understanding of software maintenance challenges, code quality, and system comprehension. I am eager to leverage this background to contribute to research in **Mining Software Repositories** and **Program Understanding**, with  a specific interest in analyzing modern web frameworks to derive insights for better software tooling and maintenance practices. 
 
 
@@ -42,7 +42,7 @@ An IT graduate with a strong foundation in Software Development and growing inte
 **BSc Information Technology**  
 University of Education, Winneba *(2016 – 2020)*  
 📍 Winneba, Ghana
-
+-**Final Year Project**: Smart Claims:  
 ---
 
 ## 🧰 Skills
@@ -79,16 +79,11 @@ University of Education, Winneba *(2016 – 2020)*
 ---
 
 ## 🗣️ Languages
-
-- English *(Fluent)*
+- English
 
 ---
 
 ## 🧭 Connect With Me
-
 - 🌐 [webedgetek.com](https://webedgetek.com)  
 - 🐙 [github.com/bigboss200535](https://github.com/bigboss200535)  
 - 📧 [alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)
-
----
-> _“Code with clarity. Build with purpose. Deliver with impact.”_ ✨
