@@ -1,6 +1,7 @@
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
---📍 Kumasi, Ghana  
---[alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)    |      📞 +233(0)245340461 |    🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
+
+-📍 Kumasi, Ghana  
+-[alhassan.mohammedga@gmail.com](mailto:alhassan.mohammedga@gmail.com)    |      📞 +233(0)245340461 |    🐙 [github.com/bigboss200535](https://github.com/bigboss200535)                             
 
 ---
 
@@ -78,7 +79,11 @@ University of Education, Winneba *(2016 – 2020)*
 ---
 
 ## 🚀 Projects & Achievements
-- Laravel E-Commerce Platform 
+- **Laravel Tax Management System** | Freelance Project
+
+
+
+ 
 - 💼 **Tax Management System** — Developed with Laravel in a team of 5 for Blita Municipal, Republic of Togo.  
 - 🏥 **Client Management System** — Built for Metro Health Services using PHP.  
 - 🏡 **Land Allocation System** — Developed with PHP and MySQL for land sales management.
