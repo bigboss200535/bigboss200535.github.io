@@ -1,4 +1,4 @@
-# Mohammed ALHASSAN
+
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
 
 Kumasi, Ghana   
