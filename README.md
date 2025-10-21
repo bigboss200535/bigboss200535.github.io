@@ -23,6 +23,14 @@ An IT graduate with a strong foundation in Software Development and growing inte
 
 ---
 
+## Education
+
+**BSc Information Technology**  
+University of Education, Winneba *(2016 – 2020)*  
+Winneba, Ghana
+
+---
+
 ## Experience
 
 ### *Web Developer:* Mater Dei Hospital *(2021 – Present, Kumasi, Ghana)*
@@ -44,28 +52,27 @@ An IT graduate with a strong foundation in Software Development and growing inte
 - Managed user accounts and assisted with password resets.  
 - Provided technical support and troubleshooting (both in person and remotely).  
 - Resolved network-related issues.
-
----
-
-## Education
-
-**BSc Information Technology**  
-University of Education, Winneba *(2016 – 2020)*  
-Winneba, Ghana
    
 ---
 
 ## Skills
 
 **-Software Engineering & Analysis Tools**
- - **Version Control**: Git/GitHub
+ - **Version Control**: Git, GitHub
  - **Code Quality & Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
- - **Debugging & Problem Determination:** Xdebug, Laravel Telescope, Log Analysis
- - **API Analysis**: Experience with RESTful APIs, Postman
+ - **Debugging & Performance Monitoring:** DebugBar, Xdebug, Laravel Telescope, Log Analysis
+ - **API Analysis**: Experience with RESTful APIs, Postman, JSON/XML Integration
 
 **-Programming & Web Technologies**
-- PHP, Laravel, JavaScript, MySQL  
+- **Languages & Framework**: PHP, Laravel, JavaScript, Angular.
+- **Databases:** MySQL, MSSQL
+- **Frontend Development**: HTML5, CSS3, Bootstrap, TailwindCSS
+- **UI/UX Tools**: Figma
 
+**-Additional Strengths**
+- Scalable and optimized Laravel architecture design
+- Secure backend development (data protection, authentication and authorization)
+- Agile development workflow and version control collaboration
 
 ---
 
