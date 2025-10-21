@@ -1,3 +1,4 @@
+# Mohammed Alhassan
 **EMPIRICAL SOFTWARE ENGINEERING RESEARCHER**
 
 Kumasi, Ghana   
@@ -95,7 +96,14 @@ Winneba, Ghana
 - **Reverse Engineering & Program Understanding:** Analyzed and integrated multiple third-party API's by deciphering their SDK and API documentations to create a unified, abstracted payment and SMS service layer, improving system maintainability.
 
    
-  **2. Client Appointment System** | Freelance Project
+**2. Doctor Appointment System** | *Freelance Project*
+- **Problem Determination:** Implemented comprehensive logging and monitoring using **Laravel Debugbar** to diagnose performance bottlenecks in database queries, reducing page load times by 30%.
+- **Software Visualization:** Designed the Database schema, the frontend views using Laravel 
+- **Mining Software Respositories:** Utilized Git history analysis to identify bug-prone modules by tracking `git blame` and `commit` frequencies, leading to a targeted refactoring strategy for the checkout process.
+- **Reverse Engineering & Program Understanding:** Analyzed and integrated multiple third-party API's by deciphering their SDK and API documentations to create a unified, abstracted payment and SMS service layer, improving system maintainability.
+
+
+**3. Client Appointment System** | *Freelance Project*
 - **Problem Determination:** Implemented comprehensive logging and monitoring using **Laravel Debugbar** to diagnose performance bottlenecks in database queries, reducing page load times by 30%.
 - **Software Visualization:** Designed the Database schema, the frontend views using Laravel 
 - **Mining Software Respositories:** Utilized Git history analysis to identify bug-prone modules by tracking `git blame` and `commit` frequencies, leading to a targeted refactoring strategy for the checkout process.
