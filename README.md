@@ -88,18 +88,16 @@ Winneba, Ghana
 ---
 
 ## Projects & Achievements
-- **Laravel Tax Management System**  *Freelance Project*
-  
+**1. Laravel Tax Management System**  | *Freelance Project*
 - **Software Visualization:** Designed the Database schema and used Laravel Eloquent ORM to visualize and understand the complex data relationships
 - **Problem Determination:** Implemented comprehensive logging and monitoring using **Laravel Debugbar** to diagnose performance bottlenecks in database queries, reducing page load times by 30%.
 - **Mining Software Respositories:** Utilized Git history analysis to identify bug-prone modules by tracking *git blame* and *commit* frequencies, leading to a targeted refactoring strategy for the checkout process.
 - **Reverse Engineering & Program Understanding:** Analyzed and integrated multiple third-party API's by deciphering their SDK and API documentations to create a unified, abstracted payment and SMS service layer, improving system maintainability.
-   
-- **Client Appointment System** | Freelance Project
-- 
-- **Problem Determination:** Implemented comprehensive logging and monitoring using **Laravel Debugbar** to diagnose performance bottlenecks in database queries, reducing page load times by 30%.
-- **Software Visualization:** Designed the Database schema and used Laravel Eloquent ORM to visualize and understand the complex data relationships
 
+   
+  **2. Client Appointment System** | Freelance Project
+- **Problem Determination:** Implemented comprehensive logging and monitoring using **Laravel Debugbar** to diagnose performance bottlenecks in database queries, reducing page load times by 30%.
+- **Software Visualization:** Designed the Database schema, the frontend views using Laravel 
 - **Mining Software Respositories:** Utilized Git history analysis to identify bug-prone modules by tracking `git blame` and `commit` frequencies, leading to a targeted refactoring strategy for the checkout process.
 - **Reverse Engineering & Program Understanding:** Analyzed and integrated multiple third-party API's by deciphering their SDK and API documentations to create a unified, abstracted payment and SMS service layer, improving system maintainability.
 
