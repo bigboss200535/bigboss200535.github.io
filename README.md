@@ -3,7 +3,7 @@
 📍 Kumasi, Ghana  
 📧 alhassan.mohammedga@gmail.com  
 📱 +233 (0) 245 340 461  
-🔗 [GitHub](https://github.com/bigboss200535) • [LinkedIn](https://www.linkedin.com/in/mohammed-alhassan-b0985a292/) • [Portfolio](#)
+🔗 [Github](https://github.com/bigboss200535) • [LinkedIn](https://www.linkedin.com/in/mohammed-alhassan-b0985a292/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigboss200535&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboss200535&layout=compact&theme=default&hide_border=true)
