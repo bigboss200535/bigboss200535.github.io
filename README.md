@@ -1,25 +1,24 @@
-# Alhassan Mohammed
-**Research-Oriented Software Engineer & AI Research Candidate**
+**Empirical Software Engineering Researcher**
 
 📍 Kumasi, Ghana  
 📧 alhassan.mohammedga@gmail.com  
 📱 +233 (0) 245 340 461  
-🔗 [GitHub](https://github.com/bigboss200535) • [LinkedIn](#) • [Portfolio](#)
+🔗 [GitHub](https://github.com/bigboss200535) • [LinkedIn](https://www.linkedin.com/in/mohammed-alhassan-b0985a292/) • [Portfolio](#)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bigboss200535&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bigboss200535&layout=compact&theme=default&hide_border=true)
 
-## 👨‍💻 Professional Profile
+## Professional Profile
 
 Software engineer with 3+ years of experience in full-stack development, transitioning into empirical software engineering and AI research. My background in building and maintaining large-scale Laravel applications has provided practical insights into software maintenance challenges, code quality metrics, and system evolution patterns. I am now pursuing research opportunities that bridge industry experience with academic inquiry in software analytics and intelligent systems.
 
-## 🎓 Education
+## Education
 
 **BSc Information Technology**  
 *University of Education, Winneba* | 2016 – 2020  
-GPA: 3.8/4.0 | *Graduated with Honors*
+GPA: 3.2/4.0 | *Graduated with Honors*
 
-## 🔬 Research Focus
+## Research Focus
 
 ### Primary Interests
 - **Mining Software Repositories (MSR)** & Empirical Software Engineering
@@ -35,7 +34,7 @@ GPA: 3.8/4.0 | *Graduated with Honors*
 - Machine learning for software quality prediction
 - Data mining from web applications and usage patterns
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### **Web Developer** | Mater Dei Hospital
 *Kumasi, Ghana | 2021 – Present*
@@ -59,7 +58,7 @@ GPA: 3.8/4.0 | *Graduated with Honors*
 - Collaborated in agile team environment on municipal web projects
 - *Research Relevance: Foundation in API analysis and integration patterns*
 
-## 🛠 Technical Stack
+## Technical Stack
 
 ### **Software Engineering & Analysis**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
