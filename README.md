@@ -57,6 +57,15 @@ GPA: 3.2/4.0
 
 ## Technical Stack
 
+-**Mining Software Repositories (MSR)** & Empirical Software Engineering
+--**Version Control**: Git, GitHub
+--**Code Quality and Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
+--**Debugging & Problem Determination**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
+--**Api Analysis Experience with RESTful API's, Postman**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
+
+-**Programming Languages** 
+--**PHP
+
 ### **Software Engineering & Analysis**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -66,7 +75,6 @@ GPA: 3.2/4.0
 
 ### **Programming Languages**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
