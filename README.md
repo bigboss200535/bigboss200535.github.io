@@ -87,7 +87,7 @@ GPA: 3.2/4.0 | *Graduated with Honors*
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## 📊 Projects
+## Projects
 
 ### **Tax Management System Analysis**
 ![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat&logo=php&logoColor=white)
@@ -116,7 +116,7 @@ GPA: 3.2/4.0 | *Graduated with Honors*
 - Explored content-based retrieval patterns
 - *Research Significance: Bridges software engineering with information retrieval*
 
-## 🎯 Research Objectives
+## Research Objectives
 
 ### Short-term Goals
 - Pursue Master's research in empirical software engineering or applied AI
@@ -128,22 +128,20 @@ GPA: 3.2/4.0 | *Graduated with Honors*
 - Develop tools and methodologies for improved software maintenance
 - Explore AI-driven solutions for software quality and comprehension
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bigboss200535&theme=default)](https://git.io/streak-stats)
 
 
-## 🌐 Languages
+## Languages
 
 - **English**: Professional proficiency
 - **Twi**: Native proficiency
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-alhassan.mohammedga@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhassan.mohammedga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
---
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bigboss200535)
 
 ---
