@@ -1,9 +1,10 @@
+#MOHAMMED ALHASSAN
 **Empirical Software Engineering Researcher**
 
 📍 Kumasi, Ghana  
 📧 alhassan.mohammedga@gmail.com  
 📱 +233 (0) 245 340 461  
-🔗 [github.com/bigboss200535](https://github.com/bigboss200535) • [https://www.linkedin.com/in/mohammed-alhassan-b0985a292/](https://www.linkedin.com/in/mohammed-alhassan-b0985a292/)
+🔗 [GitHub](https://github.com/bigboss200535) • [LinkedIn](https://www.linkedin.com/in/mohammed-alhassan-b0985a292/)
 
 
 ## Professional Profile
@@ -78,13 +79,6 @@ GPA: 3.2/4.0
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### **AI & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
 ## Projects
 
 ### **Tax Management System Analysis**
@@ -106,13 +100,6 @@ GPA: 3.2/4.0
 - Analyzed architectural transitions from procedural PHP to MVC patterns
 - *Research Significance: Case study in software evolution and maintainability*
 
-### **Academic Query System Prototype**
-![Python](https://img.shields.io/badge/Python-Data_Mining-3776AB?style=flat&logo=python&logoColor=white)
-![WebML](https://img.shields.io/badge/WebML-Inspired-FF6B6B?style=flat)
-
-- Developed proof-of-concept for declarative query interface
-- Explored content-based retrieval patterns
-- *Research Significance: Bridges software engineering with information retrieval*
 
 ## Research Objectives
 
@@ -126,20 +113,10 @@ GPA: 3.2/4.0
 - Develop tools and methodologies for improved software maintenance
 - Explore AI-driven solutions for software quality and comprehension
 
-## GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bigboss200535&theme=default)](https://git.io/streak-stats)
-
 
 ## Languages
 
 - **English**: Professional proficiency
 - **Twi**: Native proficiency
-
-## Let's Connect
-
-[![Email](https://img.shields.io/badge/Email-alhassan.mohammedga@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhassan.mohammedga@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bigboss200535)
 
 ---
