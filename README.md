@@ -7,52 +7,50 @@
 
 
 ## Professional Profile
+An IT graduate with a strong foundation in software development and a growing interest in empirical software engineering.  My background in building and maintaining large-scale Laravel applications has provided practical insights into software maintenance challenges, code quality metrics, and system evolution patterns. 
 
-Software engineer with 3+ years of experience in full-stack development, transitioning into empirical software engineering and AI research. My background in building and maintaining large-scale Laravel applications has provided practical insights into software maintenance challenges, code quality metrics, and system evolution patterns. I am now pursuing research opportunities that bridge industry experience with academic inquiry in software analytics and intelligent systems.
+I am eager to leverage this background to contribute to research in Minning Software Repositories, AI Applications and program understanding with a specific interest in analyzing modern frameworks to derive insights for better software tooling and maintenance practices. 
+
 
 ## Education
 
 **BSc Information Technology**  
 *University of Education, Winneba* | 2016 – 2020  
-GPA: 3.2/4.0 | *Graduated with Honors*
+GPA: 3.2/4.0 
 
-## Research Focus
-
-### Primary Interests
+## Research Interests
 - **Mining Software Repositories (MSR)** & Empirical Software Engineering
 - **Program Comprehension** & Software Visualization
 - **AI/ML Applications** in Software Engineering
 - **Web Mining** & Content-Based Information Retrieval
 - **Software Maintenance** & Evolution Analysis
-
-### Technical Applications
-- Pattern discovery in code repositories and system logs
-- Reverse engineering of API integrations and dependencies
-- Empirical analysis of framework migration impacts
-- Machine learning for software quality prediction
-- Data mining from web applications and usage patterns
+  
 
 ## Professional Experience
 
 ### **Web Developer** | Mater Dei Hospital
 *Kumasi, Ghana | 2021 – Present*
-
+- Debug and troubleshoot system issues to ensure uninterrupted service delivery
+- Collaborate with team members to design new features and improve existing modules.
+- Manage and update the patient SMS engagement system to ensure reliable notifications.
+- Review logs and monitor system performance to proactive address potential issues
 - Engineered internal web systems using Laravel, MySQL, and JavaScript
-- Developed patient engagement SMS system, improving communication efficiency by 20%
 - Implemented version control strategies enabling repository mining opportunities
 - *Research Relevance: Real-world exposure to software maintenance challenges in critical systems*
 
 ### **Web Developer** | Metro Health Clinic
-*Remote | 2017 – Present*
+*Remote | 2017 – 2023*
 
 - Led modernization of legacy codebase to Laravel framework architecture
 - Managed full development lifecycle of healthcare web applications
+- Collaborae with remote team members through virtual meetings and task tracking tools
 - *Research Relevance: Hands-on experience with software evolution and technical debt management*
 
 ### **Web Developer Intern** | Kumasi Metropolitan Assembly
 *Kumasi, Ghana | 2020 – 2021*
 
-- Developed data collection systems and integrated third-party APIs
+- Improved web modules for municipal data collection platform.
+- Write and test codes with PHP and MySql
 - Collaborated in agile team environment on municipal web projects
 - *Research Relevance: Foundation in API analysis and integration patterns*
 
