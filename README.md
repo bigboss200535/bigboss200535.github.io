@@ -87,7 +87,7 @@ GPA: 3.2/4.0 | *Graduated with Honors*
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## 📊 Research Projects
+## 📊 Projects
 
 ### **Tax Management System Analysis**
 ![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat&logo=php&logoColor=white)
@@ -132,31 +132,18 @@ GPA: 3.2/4.0 | *Graduated with Honors*
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bigboss200535&theme=default)](https://git.io/streak-stats)
 
-## 🏆 Achievements
-
-- **University Undergraduate Research Award** | 2024
-- **Dean's Honour List** | 2022, 2023
-- **Best Final Year Project** | University of Education, Winneba 2020
 
 ## 🌐 Languages
 
-- **English**: Fluent (Professional proficiency)
+- **English**: Professional proficiency
 - **Twi**: Native proficiency
 
 ## 📫 Let's Connect
 
-I welcome discussions about research opportunities, potential collaborations, and shared interests in software engineering and AI research.
-
 [![Email](https://img.shields.io/badge/Email-alhassan.mohammedga@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alhassan.mohammedga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+--
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bigboss200535)
 
 ---
-
-<div align="center">
-
-### 🎓 Currently seeking research positions and Master's opportunities for 2024
-
-*"Bridging industry experience with academic research in software engineering and AI"*
-
-</div>
