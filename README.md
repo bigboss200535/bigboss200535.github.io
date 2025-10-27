@@ -1,4 +1,3 @@
-#MOHAMMED ALHASSAN
 **Empirical Software Engineering Researcher**
 
 📍 Kumasi, Ghana  
