@@ -24,6 +24,7 @@ GPA: 3.2/4.0
 - **AI/ML Applications** in Software Engineering
 - **Web Mining** & Content-Based Information Retrieval
 - **Software Maintenance** & Evolution Analysis
+- **Clone detection and analysis**
   
 
 ## Professional Experience
