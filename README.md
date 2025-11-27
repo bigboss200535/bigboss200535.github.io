@@ -24,8 +24,8 @@ I am eager to leverage this background to contribute to research in Minning Soft
 
 ## Education
 
-**BSc Information Technology**  
-*University of Education, Winneba* | 2016 – 2020  
+**University of Education, Winneba**
+*BSc Information Technology* | 2016 – 2020  
 GPA: 3.2 
 
 
