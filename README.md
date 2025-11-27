@@ -19,13 +19,21 @@ I am eager to leverage this background to contribute to research in Minning Soft
 GPA: 3.2/4.0 
 
 ## Research Interests
-- **Mining Software Repositories (MSR)** & Empirical Software Engineering
+- **Empirical Software Engineering** & **Mining Software Repositories (MSR)** 
 - **Program Comprehension** & Software Visualization
-- **AI/ML Applications** in Software Engineering
+- **Artificial Intelligence/Machine Learning Applications** in Software Engineering
 - **Web Mining** & Content-Based Information Retrieval
 - **Software Maintenance** & Evolution Analysis
 - **Clone detection and analysis**
+- **Web Security** & **Computer Security**
   
+## Technical Stack
+
+-**Mining Software Repositories (MSR)** & Empirical Software Engineering
+--**Version Control**: Git, GitHub
+--**Code Quality and Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
+--**Debugging & Problem Determination**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
+--**Api Analysis Experience with RESTful API's, Postman**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
 
 ## Professional Experience
 
@@ -55,13 +63,7 @@ GPA: 3.2/4.0
 - Collaborated in agile team environment on municipal web projects
 - *Research Relevance: Foundation in API analysis and integration patterns*
 
-## Technical Stack
 
--**Mining Software Repositories (MSR)** & Empirical Software Engineering
---**Version Control**: Git, GitHub
---**Code Quality and Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
---**Debugging & Problem Determination**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
---**Api Analysis Experience with RESTful API's, Postman**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
 
 -**Programming Languages** 
 --**PHP
