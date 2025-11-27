@@ -67,11 +67,6 @@ GPA: 3.2/4.0
 - *Research Relevance: Foundation in API analysis and integration patterns*
 
 
-
--**Programming Languages** 
-
---**PHP**
-
 ### **Software Engineering & Analysis**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
