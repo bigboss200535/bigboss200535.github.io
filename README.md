@@ -37,35 +37,6 @@ GPA: 3.2/4.0
 - **Debugging & Problem Determination**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
 - **Api Analysis Experience with RESTful API's, Postman**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
 
-## Professional Experience
-
-### **Web Developer** | Mater Dei Hospital
-*Kumasi, Ghana | 2021 – Present*
-- Debug and troubleshoot system issues to ensure uninterrupted service delivery
-- Collaborate with team members to design new features and improve existing modules.
-- Manage and update the patient SMS engagement system to ensure reliable notifications.
-- Review logs and monitor system performance to proactive address potential issues
-- Engineered internal web systems using Laravel, MySQL, and JavaScript
-- Implemented version control strategies enabling repository mining opportunities
-- *Research Relevance: Real-world exposure to software maintenance challenges in critical systems*
-
-### **Web Developer** | Metro Health Clinic
-*Remote | 2017 – 2023*
-
-- Led modernization of legacy codebase to Laravel framework architecture
-- Managed full development lifecycle of healthcare web applications
-- Collaborae with remote team members through virtual meetings and task tracking tools
-- *Research Relevance: Hands-on experience with software evolution and technical debt management*
-
-### **Web Developer Intern** | Kumasi Metropolitan Assembly
-*Kumasi, Ghana | 2020 – 2021*
-
-- Improved web modules for municipal data collection platform.
-- Write and test codes with PHP and MySql
-- Collaborated in agile team environment on municipal web projects
-- *Research Relevance: Foundation in API analysis and integration patterns*
-
-
 ### **Software Engineering & Analysis**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -86,6 +57,37 @@ GPA: 3.2/4.0
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+## Professional Experience
+
+### **Web Developer** | Mater Dei Hospital
+*Kumasi, Ghana | 2021 – Present*
+- Debug and troubleshoot system issues to ensure uninterrupted service delivery
+- Collaborate with team members to design new features and improve existing modules.
+- Manage and update the patient SMS engagement system to ensure reliable notifications.
+- Review logs and monitor system performance to proactive address potential issues
+- Engineered internal web systems using Laravel, MySQL, and JavaScript
+- Implemented version control strategies enabling repository mining opportunities
+- *Research Relevance:* Real-world exposure to software maintenance challenges in critical systems
+
+### **Web Developer** | Metro Health Clinic
+*Remote | 2017 – 2023*
+
+- Led modernization of legacy codebase to Laravel framework architecture
+- Managed full development lifecycle of healthcare web applications
+- Collaborae with remote team members through virtual meetings and task tracking tools
+- *Research Relevance:* Hands-on experience with software evolution and technical debt management
+
+### **Web Developer Intern** | Kumasi Metropolitan Assembly
+*Kumasi, Ghana | 2020 – 2021*
+
+- Improved web modules for municipal data collection platform.
+- Write and test codes with PHP and MySql
+- Collaborated in agile team environment on municipal web projects
+- *Research Relevance:* Foundation in API analysis and integration patterns
+
+
+
 
 ## Projects
 
