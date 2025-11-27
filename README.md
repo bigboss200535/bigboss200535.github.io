@@ -29,13 +29,15 @@ I am eager to leverage this background to contribute to research in Minning Soft
 GPA: 3.2/4.0 
 
 
-  
 ## Technical Stack
 
 - **Version Control**: Git, GitHub
 - **Code Quality and Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
 - **Debugging & Problem Determination**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
-- **Api Analysis Experience with RESTful API's, Postman**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
+- **Api Analysis:** Postman
+- **Programming Languages**: PHP, JavaScript, SQL, Java
+- **Frameworks**: Laravel, Angular, Bootstrap
+  
 
 ### **Software Engineering & Analysis**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -85,8 +87,6 @@ GPA: 3.2/4.0
 - Write and test codes with PHP and MySql
 - Collaborated in agile team environment on municipal web projects
 - *Research Relevance:* Foundation in API analysis and integration patterns
-
-
 
 
 ## Projects
