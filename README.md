@@ -69,7 +69,8 @@ GPA: 3.2/4.0
 
 
 -**Programming Languages** 
---**PHP
+
+--**PHP**
 
 ### **Software Engineering & Analysis**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
