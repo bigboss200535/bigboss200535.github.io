@@ -83,7 +83,7 @@ GPA: 3.2/4.0
 ### **Patient appointment System** | [Link](https://www.magazineclinic.com/selfservice/portal)
 ![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)
-![Code Quality](https://img.shields.io/badge/Code_Quality-Metrics-2496ED?style=flat)
+![Git](https://img.shields.io/badge/github-blue?logo=github)
 
 - Documented code quality improvements during framework migration
 - Analyzed architectural transitions from procedural PHP to MVC patterns
