@@ -32,10 +32,10 @@ GPA: 3.2/4.0
   
 ## Technical Stack
 
--**Version Control**: Git, GitHub
--**Code Quality and Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
--**Debugging & Problem Determination**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
--**Api Analysis Experience with RESTful API's, Postman**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
+- **Version Control**: Git, GitHub
+- **Code Quality and Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
+- **Debugging & Problem Determination**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
+- **Api Analysis Experience with RESTful API's, Postman**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
 
 ## Professional Experience
 
