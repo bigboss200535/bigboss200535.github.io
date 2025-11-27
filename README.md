@@ -11,13 +11,6 @@ An IT graduate with a strong foundation in software development and a growing in
 
 I am eager to leverage this background to contribute to research in Minning Software Repositories, AI Applications and program understanding with a specific interest in analyzing modern frameworks to derive insights for better software tooling and maintenance practices. 
 
-
-## Education
-
-**BSc Information Technology**  
-*University of Education, Winneba* | 2016 – 2020  
-GPA: 3.2/4.0 
-
 ## Research Interests
 - **Empirical Software Engineering** & **Mining Software Repositories (MSR)** 
 - **Program Comprehension** & Software Visualization
@@ -26,6 +19,14 @@ GPA: 3.2/4.0
 - **Software Maintenance** & Evolution Analysis
 - **Clone detection and analysis**
 - **Web Security** & **Computer Security**
+
+## Education
+
+**BSc Information Technology**  
+*University of Education, Winneba* | 2016 – 2020  
+GPA: 3.2/4.0 
+
+
   
 ## Technical Stack
 
