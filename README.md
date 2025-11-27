@@ -32,7 +32,6 @@ GPA: 3.2/4.0
   
 ## Technical Stack
 
--**Mining Software Repositories (MSR)** & Empirical Software Engineering
 --**Version Control**: Git, GitHub
 --**Code Quality and Analysis**: PHPStan, Laravel Pint, PHPCodeSniffer
 --**Debugging & Problem Determination**: Laravel Debugbar, Log Analysis, Xdebug, Laravel Telephone
