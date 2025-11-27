@@ -7,11 +7,13 @@
 
 
 ## Professional Profile
+
 An IT graduate with a strong foundation in software development and a growing interest in empirical software engineering.  My background in building and maintaining large-scale Laravel applications has provided practical insights into software maintenance challenges, code quality metrics, and system evolution patterns. 
 
 I am eager to leverage this background to contribute to research in Minning Software Repositories, AI Applications and program understanding with a specific interest in analyzing modern frameworks to derive insights for better software tooling and maintenance practices. 
 
 ## Research Interests
+
 - **Empirical Software Engineering** & **Mining Software Repositories (MSR)** 
 - **Program Comprehension** & Software Visualization
 - **Artificial Intelligence/Machine Learning Applications** in Software Engineering
