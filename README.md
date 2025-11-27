@@ -39,13 +39,6 @@ GPA: 3.2/4.0
 - **Frameworks**: Laravel, Angular, Bootstrap
   
 
-### **Software Engineering & Analysis**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![PHPStan](https://img.shields.io/badge/PHPStan-8C5FD3?style=flat)
-![Laravel Debugbar](https://img.shields.io/badge/Laravel_Debugbar-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
 ### **Programming Languages**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
