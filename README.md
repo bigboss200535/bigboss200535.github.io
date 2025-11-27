@@ -94,7 +94,7 @@ GPA: 3.2/4.0
 
 ## Projects
 
-### **Tax Management System Analysis**
+### **Tax Management System (Sig-Reccettes)**
 ![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-MSR_Analysis-F05032?style=flat&logo=git&logoColor=white)
@@ -104,7 +104,7 @@ GPA: 3.2/4.0
 - Improved system performance by 30% through query optimization
 - *Research Significance: Practical application of MSR techniques*
 
-### **Healthcare System Evolution Study**
+### **Patient appointment System**
 ![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Code Quality](https://img.shields.io/badge/Code_Quality-Metrics-2496ED?style=flat)
