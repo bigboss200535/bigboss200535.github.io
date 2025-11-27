@@ -26,7 +26,7 @@ I am eager to leverage this background to contribute to research in Minning Soft
 
 **BSc Information Technology**  
 *University of Education, Winneba* | 2016 – 2020  
-GPA: 3.2/4.0 
+GPA: 3.2 
 
 
 ## Technical Stack
@@ -41,33 +41,40 @@ GPA: 3.2/4.0
 
 ## Professional Experience
 
-### **Web Developer** | Mater Dei Hospital
-*Kumasi, Ghana | 2021 – Present*
+### **Web Developer** | Mater Dei Hospital - *Kumasi, Ghana | 2021 – Present*
+- Engineered internal web systems using Laravel, MySQL, and JavaScript
+- Enineered an SMS notificatoin system with Laravel and MySQL which contributed to 20% patient engagement.
 - Debug and troubleshoot system issues to ensure uninterrupted service delivery
 - Collaborate with team members to design new features and improve existing modules.
 - Manage and update the patient SMS engagement system to ensure reliable notifications.
 - Review logs and monitor system performance to proactive address potential issues
-- Engineered internal web systems using Laravel, MySQL, and JavaScript
 - Implemented version control strategies enabling repository mining opportunities
 - *Research Relevance:* Real-world exposure to software maintenance challenges in critical systems
 
-### **Web Developer** | Metro Health Clinic
-*Remote | 2017 – 2023*
+### **Data Analyst** | Magazine Clinic - *Kumasi, Ghana | 2018 – Date*
+- Transform raw patient data into actionable insights by developing analytical reports, directly informing decisions for resource allocation.
+- Enforce Ghana Health Service regulations responsible for developing and maintaining hospital website and appointment system
+- Updated hospital website with Laravel with current web practices
+- Ensure security, confidentiality of patient data.
+- *Research Relevance:* Data Analysis of Patient data
 
-- Led modernization of legacy codebase to Laravel framework architecture
-- Managed full development lifecycle of healthcare web applications
-- Collaborae with remote team members through virtual meetings and task tracking tools
-- *Research Relevance:* Hands-on experience with software evolution and technical debt management
-
-### **Web Developer Intern** | Kumasi Metropolitan Assembly
-*Kumasi, Ghana | 2020 – 2021*
-
+### **Web Developer Intern** | Kumasi Metropolitan Assembly - *Kumasi, Ghana | 2020 – 2021*
 - Improved web modules for municipal data collection platform.
 - Write and test codes with PHP and MySql
 - Collaborated in agile team environment on municipal web projects
 - *Research Relevance:* Foundation in API analysis and integration patterns
 
+### **Web Developer (IT Consultant)** | Metro Health Clinic - *Remote | 2017 – 2020*
+- Led modernization of legacy codebase to Laravel framework architecture
+- Managed full development lifecycle of healthcare web applications
+- Collaborae with remote team members through virtual meetings and task tracking tools
+- *Research Relevance:* Hands-on experience with software evolution and technical debt management
 
+### **IT Support Officer** | Mater Dei Hospital - *Kumasi, Ghana | 2013 – 2016*
+- Provided Support and troubleshooting for IT related issues
+- Manage users accounts
+- *Research Relevance:* Foundation in API analysis and integration patterns
+  
 ## Projects
 
 ### **Tax Management System (Sig-Reccettes)** | [Link](https://www.sigrecette.com/login)
@@ -76,9 +83,10 @@ GPA: 3.2/4.0
 ![Git](https://img.shields.io/badge/github-blue?logo=github)
 
 - Conducted empirical study of code evolution using Git history mining
-- Reverse-engineered multiple payment gateway APIs
-- Improved system performance by 30% through query optimization
-- *Research Significance: Practical application of MSR techniques*
+- Reverse-engineered map visualization by deciphering API documentations to create a unified and abstracted map to locate tax payers.
+- Improved system performance by 40% through query optimization
+- Designed the database schema and used Laravel ORM to visualize complex data relationships
+- *Research Significance:* Practical application of MSR techniques
 
 ### **Patient appointment System** | [Link](https://www.magazineclinic.com/selfservice/portal)
 ![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat&logo=php&logoColor=white)
@@ -87,7 +95,10 @@ GPA: 3.2/4.0
 
 - Documented code quality improvements during framework migration
 - Analyzed architectural transitions from procedural PHP to MVC patterns
-- *Research Significance: Case study in software evolution and maintainability*
+- Created dynamic data visualization of patient interaction metrics to aid program understanding by end users
+- Architected a modular system which isolate each module when trouble shooting without bringing down the entire application.
+- Enforce code quality workflow by using Laravel Debugbar for potential type errors.
+- *Research Significance*: Case study in software evolution and maintainability
 
 
 ## Research Objectives
