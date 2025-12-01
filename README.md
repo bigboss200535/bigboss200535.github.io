@@ -28,7 +28,6 @@ I am eager to leverage this background to contribute to research in Minning Soft
 *BSc Information Technology* | 2016 – 2020  
 GPA: 3.2 
 
-
 ## Technical Stack
 
 - **Version Control**: Git, GitHub
