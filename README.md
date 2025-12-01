@@ -58,7 +58,7 @@ GPA: 3.2
 - Ensure security, confidentiality of patient data.
 - *Research Relevance:* Data Analysis of Patient data
 
-### **Web Developer Intern** | Kumasi Metropolitan Assembly - *Kumasi, Ghana | 2020 – 2021*
+### **Web Developer Intern** | Kumasi Metropolitant Assembly - *Kumasi, Ghana | 2020 – 2021*
 - Improved web modules for municipal data collection platform.
 - Write and test codes with PHP and MySql
 - Collaborated in agile team environment on municipal web projects
@@ -98,9 +98,20 @@ GPA: 3.2
 - Created dynamic data visualization of patient interaction metrics to aid program understanding by end users
 - Architected a modular system which isolate each module when trouble shooting without bringing down the entire application.
 - Enforce code quality workflow by using Laravel Debugbar for potential type errors.
-- *Research Significance*: Case study in software evolution and maintainability
+- *Research Significance*: Software evolution and maintainability
 
+### **Patient Management System** | [Link](https://www.carezplus.com/)
+![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/github-blue?logo=github)
 
+- Analyzed and integrated National Health Insurance API for member identification with HMS.
+- Created dynamic data visualization of patient interaction metrics to aid program understanding by end users
+- Architected a modular system which isolate each module when trouble shooting without bringing down the entire application.
+- Enforce code quality workflow for potential type errors.
+- *Research Significance*: Team collaboration
+
+  
 ## Research Objectives
 
 ### Short-term Goals
