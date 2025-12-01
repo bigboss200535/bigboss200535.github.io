@@ -80,6 +80,11 @@ GPA: 3.2
 ![PHP](https://img.shields.io/badge/PHP-Laravel-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/github-blue?logo=github)
+![Laravel](https://img.shields.io/badge/Laravel-Framework-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Sanctum](https://img.shields.io/badge/Laravel-Sanctum-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Laravel-Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+![Debugbar](https://img.shields.io/badge/Laravel-Debugbar-FF2D20?style=flat&logo=laravel&logoColor=white)
+![NativePHP](https://img.shields.io/badge/Laravel-NativePHP-0E7C7B?style=flat&logo=laravel&logoColor=white)
 
 - Conducted empirical study of code evolution using Git history mining
 - Reverse-engineered map visualization by deciphering API documentations to create a unified and abstracted map to locate tax payers.
